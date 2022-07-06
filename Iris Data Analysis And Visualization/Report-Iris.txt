@@ -1,0 +1,22 @@
+Report
+
+1)specie versicolor and virginica seem to have similar values for petal length, while specie setosa belongs in a different category.
+2)virginica have max sepal lenghth i.e 7.9 and setosa have min sepal length i.e 4.3
+3)setosa species have the max sepal width i.e 4.4 and versicolor have the min sepal width i.e 2.0
+4)virginica species have the max petal length i.e 6.9 and setosa have the min petal length i.e 1.0
+5)virginica have max petal width i.e 2.5 and setosa have min petal width i.e 0.1
+6)most common feature among verginica species are as follows:
+   a) sepal_length   5.0
+   b) sepal_width    3.0
+   c) petal_length   1.4
+   d) petal1_width   0.2
+7)average sepal_length of all species is 5.843333333333335
+8)average sepal_width of all species is 3.057333333333334
+9)average petal_width of all species is 1.199333333333334
+10)average petal_length of all species is 3.7580000000000027
+11)total count of data available for all species i.esetosa ,virginica and versicolor is same i.e 50
+12)relation between sepal_length and petal_length --->versicolor and virginica are much closely related 
+and  species of iris having greater sepal length tends to have greater petal length as well.
+
+
+
