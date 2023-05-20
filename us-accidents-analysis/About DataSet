@@ -2,7 +2,7 @@
 
 
 ->  This project analyses accident data collected from 49 states of the United States of America over the period between February 2016 and December 2020. 
-->  The set is sourced from Kaggle.
+->  The set is sourced from Kaggle. link https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
 ->  It has a total of 29,06,610 rows and 47 columns
 ->  inclusive of but not limited to variables such as ‘State’, ‘City’, ‘Start_Time’, ‘Temperature(F)’, ‘Weather_Condition’ etc.
 
