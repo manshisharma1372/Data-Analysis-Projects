@@ -1,0 +1,10 @@
+#United States Accidents Data Analysis
+
+
+->  This project analyses accident data collected from 49 states of the United States of America over the period between February 2016 and December 2020. 
+->  The set is sourced from Kaggle.
+->  It has a total of 29,06,610 rows and 47 columns
+->  inclusive of but not limited to variables such as ‘State’, ‘City’, ‘Start_Time’, ‘Temperature(F)’, ‘Weather_Condition’ etc.
+
+->  While it is not possible to predict accidents, it is quite useful to analyze the conditions under which they happen. 
+->It will be helpful to have an overview of the conditions that are controllable so that the number of mishaps can be reduced.
